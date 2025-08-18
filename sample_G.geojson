@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","id":"e2fc5772-cf10-49c5-9995-b1777ebd51d0","geometry":{"type":"Polygon","coordinates":[[[106116.26, 113306.4],[142159.56, 113306.4],[142159.56, 149349.7],[106116.26, 149349.7],[106116.26, 113306.4]]]},"properties":{"objectType":"annotation","classification":{"name":"Region*","color":[0, 0, 180]},"isLocked":true}}]}
